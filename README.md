@@ -1,7 +1,6 @@
 # React Caesar Encrypter
 
 ### Project Screenshots
-<br>   
-![projects screenshots/simple-crypter-react1.png](https://github.com/ljelectrar/assets/commit/98c5aab37bb07f2f47972ca51afbf664cc0cbef6)
+<br>
 
-
+https://github.com/ljelectrar/assets/blob/98c5aab37bb07f2f47972ca51afbf664cc0cbef6/projects%20screenshots/simple-crypter-react2.png
