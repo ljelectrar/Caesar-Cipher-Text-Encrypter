@@ -6,7 +6,7 @@ React Encrypter is a simple React project that teaches how to combine different 
 
 The project also teaches how to think programmatically, apply building blocks, and add functionality layers to create amazing, meaningful projects. </br>
 
-Enjoy that and think about how this can be improved or broken, in the end, it is a Caesar Cypher, break it can be an excellent programming exercise! </br>
+Enjoy that and think about how this can be improved or broken, in the end, it is a Caesar Cipher, break it can be an excellent programming exercise! </br>
 
 ### Project Screenshot
 
